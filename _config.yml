@@ -1,0 +1,6 @@
+theme: jekyll-theme-cayman
+title: The Iowa Action Desk
+description: Low-tech civic routing infrastructure centered on economic solidarity and structural community advocacy.
+show_downloads: false
+google_analytics:
+permalink: /:path/
