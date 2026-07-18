@@ -4,6 +4,8 @@ title: Ward 4 Advocacy Scripts
 description: Targeted mobilization tools for Southeast Des Moines housing policy and municipal accountability.
 ---
 
+*   [Back to Central Iowa Index](./index.md)
+
 # Ward 4 Housing Stability and Code Enforcement
 
 ### Analytical Context
