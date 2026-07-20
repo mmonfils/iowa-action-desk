@@ -7,6 +7,6 @@ google_analytics:
 permalink: /:path/
 
 # Mobile Branding and Social Graph Assets
-logo: "/favicon.png"
-image: "/thumbnail.jpg"
+logo: "https://mmonfils.github.io/iowa-action-desk/favicon.png"
+image: "https://mmonfils.github.io/iowa-action-desk/thumbnail.jpg"
 url: "https://mmonfils.github.io"
