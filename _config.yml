@@ -5,3 +5,8 @@ baseurl: "/iowa-action-desk"
 show_downloads: false
 google_analytics:
 permalink: /:path/
+
+# Mobile Branding and Social Graph Assets
+favicon: /favicon.png
+thumbnail: /thumbnail.jpg
+url: "[https://mmonfils.github.io](https://mmonfils.github.io)"

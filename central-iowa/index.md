@@ -1,30 +1,31 @@
 ---
 layout: default
-title: Central Iowa Action Desk
-description: Regional sandbox directory for localized civic action in Southeast Des Moines and Polk County.
+title: Central Iowa Local Action
+description: Localized civic alerts for Des Moines and Polk County infrastructure.
 ---
 
-*   [Back to Main Hub](../index.md)
+*   [Back to Home Index]({{ site.baseurl }}/)
 
-# Central Iowa Action Desk
+# Central Iowa Local Action
 
-> **Regional Scope:** This directory handles localized mutual protection and civic mobilization across Southeast Des Moines, including Ward 4, Polk County Supervisor districts, and Des Moines Public Schools. Our analysis maps local policy shifts to track how municipal revenue decisions impact neighborhood stability.
-
----
-
-## Active Local Initiatives
-
-### Ward 4 Housing Stability and Code Enforcement
-Track municipal civil citations and advocate against structural inspection delays that benefit out-of-state extraction loops.
-*   [View Ward 4 Call Scripts](./ward-4-scripts.md)
-
-### Polk County Capital Expenditure and Supervisor Budgets
-Monitor county-level allocation paths, law enforcement capital project expansions, and public sector resource distribution.
-*   [View Polk County Budget Action Tools](./polk-budget.md)
+This directory coordinates localized tracking and community advocacy for municipal budgets, housing protections, and neighborhood infrastructure within Des Moines and the broader Polk County area.
 
 ---
 
-## Navigation
+## Local Government Contacts
+For immediate neighborhood concerns, you can reach out to local administrative offices directly:
+*   **Polk County Board of Supervisors Office:** 515-286-3120
+*   **Des Moines City Council General Line:** 515-283-4944
+*   **Des Moines Ward 4 Council Office:** 515-283-4944
 
-*   [Home Hub](../index.md)
-*   [Statewide Action Index](../iowa-wide/index.md)
+---
+
+## Active Local Alerts
+
+### Polk County Budget Allocations
+Advocate for stable funding for community mental health hubs and mobile crisis stabilization teams within the county budget.
+*   <a href="{{ site.baseurl }}/central-iowa/polk-budget/" style="display: block; padding: 10px; margin: 5px 0; background-color: #159957; color: white; text-align: center; border-radius: 0.3rem; text-decoration: none;">Action Script: County Budget</a>
+
+### Ward 4 Neighborhood Scripts
+Advocate for local housing safety rules, code enforcement relief, and rental protection frameworks in Southeast Des Moines.
+*   <a href="{{ site.baseurl }}/central-iowa/ward-4-scripts/" style="display: block; padding: 10px; margin: 5px 0; background-color: #159957; color: white; text-align: center; border-radius: 0.3rem; text-decoration: none;">Action Script: Ward 4 Housing</a>
