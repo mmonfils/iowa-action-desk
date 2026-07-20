@@ -7,6 +7,6 @@ google_analytics:
 permalink: /:path/
 
 # Mobile Branding and Social Graph Assets
-favicon: /favicon.png
-thumbnail: /thumbnail.jpg
+logo: "/favicon.png"
+image: "/thumbnail.jpg"
 url: "https://mmonfils.github.io"
