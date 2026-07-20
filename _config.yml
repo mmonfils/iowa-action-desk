@@ -10,3 +10,7 @@ permalink: /:path/
 logo: "https://mmonfils.github.io/iowa-action-desk/favicon.png"
 image: "https://mmonfils.github.io/iowa-action-desk/thumbnail.jpg"
 url: "https://mmonfils.github.io"
+
+# Force the GitHub Pages compiler to load SEO engines explicitly
+plugins:
+  - jekyll-seo-tag
