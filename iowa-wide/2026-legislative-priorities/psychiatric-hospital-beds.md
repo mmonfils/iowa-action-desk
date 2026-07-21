@@ -56,9 +56,11 @@ Copy and paste the text block below to instantly share this action alert with ne
 Hi, I just used a quick script to message our state reps about expanding Iowa psychiatric hospital bed capacity. Check out the briefing and call details here to help out: https://mmonfils.github.io/iowa-action-desk/iowa-wide/2026-legislative-priorities/psychiatric-hospital-beds/
 ```
 
+<!--
 ---
 
 ### 6. 'Opposing View' Sample Script
 Utilize this basic script if your personal analysis differs from the primary recommendation:
 
 > "Hello, my name is a constituent, and I am calling to share my view that I support letting private sector medical markets manage bed capacity expansion instead of using state-operated facilities. Thank you."
+-->
