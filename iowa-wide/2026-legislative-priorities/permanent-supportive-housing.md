@@ -56,9 +56,11 @@ Copy and paste the text block below to instantly share this action alert with ne
 Hey, check out this action alert about building permanent supportive housing in Iowa for neighbors with severe illnesses. Here is an easy text template and phone routing to use: https://mmonfils.github.io/iowa-action-desk/iowa-wide/2026-legislative-priorities/permanent-supportive-housing/
 ```
 
+<!--
 ---
 
 ### 6. 'Opposing View' Sample Script
 Utilize this basic script if your personal analysis differs from the primary recommendation:
 
 > "Hello, my name is a constituent, and I am calling to share my view that I support general private sector tax credits for affordable housing rather than dedicated state supportive models. Thank you."
+-->
