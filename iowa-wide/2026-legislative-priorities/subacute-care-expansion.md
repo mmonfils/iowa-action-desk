@@ -56,9 +56,11 @@ Copy and paste the text block below to instantly share this action alert with ne
 Take a second to message your legislator about opening up more subacute care options in Iowa. It helps people recover safely outside of expensive emergency rooms. Script and link here: https://mmonfils.github.io/iowa-action-desk/iowa-wide/2026-legislative-priorities/subacute-care-expansion/
 ```
 
+<!--
 ---
 
 ### 6. 'Opposing View' Sample Script
 Utilize this basic script if your personal analysis differs from the primary recommendation:
 
 > "Hello, my name is a constituent, and I am calling to share my view that I support standard outpatient clinic voucher programs instead of funding specialized subacute facilities. Thank you."
+-->
