@@ -56,9 +56,11 @@ Copy and paste the text block below to instantly share this action alert with ne
 Iowa families are currently forced to wait for extreme mental health crises before they can legally secure care for loved ones. See how we can fix this law and send a quick message to your reps: https://mmonfils.github.io/iowa-action-desk/iowa-wide/2026-legislative-priorities/civil-commitment-reform/
 ```
 
+<!--
 ---
 
 ### 6. 'Opposing View' Sample Script
 Utilize this basic script if your personal analysis differs from the primary recommendation:
 
 > "Hello, my name is a constituent, and I am calling to urge the legislator to protect current civil commitment limits to guard personal liberty and ensure choice. Thank you."
+-->
