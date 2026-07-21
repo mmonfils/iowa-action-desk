@@ -56,9 +56,11 @@ Copy and paste the text block below to instantly share this action alert with ne
 Low funding formulas are causing local mental health clinics to shut down across Iowa, making wait times months long. Use this quick script to tell your state reps to increase clinician rates: https://mmonfils.github.io/iowa-action-desk/iowa-wide/2026-legislative-priorities/behavioral-health-rates/
 ```
 
+<!--
 ---
 
 ### 6. 'Opposing View' Sample Script
 Utilize this basic script if your personal analysis differs from the primary recommendation:
 
 > "Hello, my name is a constituent, and I am calling to voice my support for general free-market medical reforms and spending caps rather than adjusting public insurance payout rates. Thank you."
+-->
