@@ -56,9 +56,11 @@ Copy and paste the text block below to instantly share this action alert with ne
 Hey, we are trying to pass a law requiring safer hospital discharge planning for mental health patients in Iowa so they are not left without options. Use this easy script to contact your rep: https://mmonfils.github.io/iowa-action-desk/iowa-wide/2026-legislative-priorities/responsible-discharge-planning/
 ```
 
+<!--
 ---
 
 ### 6. 'Opposing View' Sample Script
 Utilize this basic script if your personal analysis differs from the primary recommendation:
 
 > "Hello, my name is a constituent, and I am calling to share my view that individual hospitals should control their own voluntary discharge standards without state regulation. Thank you."
+-->
